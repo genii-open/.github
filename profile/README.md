@@ -17,9 +17,9 @@ Project Leader: Sim Kuan GOH
 
 Project Manager: Jia Hong PUAH
 
-Developers (2025): Zehang LIU, Zixuan YE, Xiangyu PENG, Ziwei ZHANG
+Researcher & Developers (2025): Zehang LIU, Zixuan YE, Xiangyu PENG, Ziwei ZHANG
 
-Developers (2024): Daowei WANG, Yaxing LYU
+Researcher & Developers (2024): Daowei WANG, Yaxing LYU
 
 Clinical/Scientific Advisors: Prof. LIM Kheng Seang, Dr. FONG Si Lei
 
