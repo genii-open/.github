@@ -7,7 +7,7 @@ Project Leader: Sim Kuan GOH
 
 Project Manager: Jia Hong PUAH
 
-Developers (2025): 
+Developers (2025): Zehang LIU, Zixuan YE, Xiangyu PENG, Ziwei ZHANG
 
 Developers (2024): Daowei WANG, Yaxing LYU
 
