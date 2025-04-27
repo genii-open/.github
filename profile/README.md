@@ -7,7 +7,11 @@ Project Leader: Sim Kuan GOH
 
 Project Manager: Jia Hong PUAH
 
+Developers (2025): 
+
 Developers (2024): Daowei WANG, Yaxing LYU
+
+Other Contributors:
 
 This project was inspired by and is building upon the open-source frameworks DASH (Plotly) and MNE.
 
