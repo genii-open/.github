@@ -1,7 +1,6 @@
-Launched in celebration of the 100-year anniversary of the EEG, making EEG/ESI accessible for all. Started on 21 May 2024, Announced & Open Sourced on 6 Sept 2024.
+Started on 21 May 2024 and officially announced and open-sourced on 6 September 2024, it has been actively serving patients from Universiti Malaya Medical Center.
 
 **Acknowledgement**
-We gratefully acknowledge the contributions of the following individuals to this project:
 
 Project Leader: Sim Kuan GOH
 
@@ -12,6 +11,7 @@ Developers (2025): Zehang LIU, Zixuan YE, Xiangyu PENG, Ziwei ZHANG
 Developers (2024): Daowei WANG, Yaxing LYU
 
 Other Contributors:
+
 
 This project was inspired by and is building upon the open-source frameworks DASH (Plotly) and MNE.
 
