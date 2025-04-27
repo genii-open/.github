@@ -1,5 +1,3 @@
-Launched in celebration of the 100-year anniversary of EEG, this initiative is dedicated to making EEG/ESI accessible for all.
-
 The project was planned in early 2024, with development beginning on 21 May 2024 (the birthdate of Hans Berger, the pioneer of EEG). It was officially announced and open-sourced on 6 September 2024, and has since been actively supporting clinicians in epilepsy diagnosis at the Universiti Malaya Medical Center.
 
 **Acknowledgement**
