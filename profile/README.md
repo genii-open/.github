@@ -11,6 +11,10 @@ Our mission is to revolutionize epilepsy diagnosis and brain research by harness
 We envision becoming a key enabler for a future where AI and cloud computing are seamlessly integrated into clinical practice, driving personalized, data-driven care for patients with neurological conditions.
 <br/><br/>
 
+### User Manual
+[URL](https://github.com/genii-open/UserManual)
+ <br/><br/>
+ 
 ### Acknowledgement
 
 Project Leader: Sim Kuan GOH
