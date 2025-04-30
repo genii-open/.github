@@ -12,7 +12,7 @@ We envision becoming a key enabler for a future where AI and cloud computing are
 <br/><br/>
 
 ### User Manual
-[URL](https://github.com/genii-open/UserManual)
+[https://github.com/genii-open/UserManual](https://github.com/genii-open/UserManual).
  <br/><br/>
  
 ### Acknowledgement
